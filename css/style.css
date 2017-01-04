@@ -3,6 +3,10 @@ h1 {
   font-family: papyrus;
   text-align: center;
 }
+h2 {
+  font-size: 30px;
+  font-family: papyrus;
+}
 p {
   font-size: 25px;
   font-family: papyrus;
